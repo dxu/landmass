@@ -13,6 +13,7 @@
         <e p="Scripts" t="Include">
           <e p="MapDisplay.cs" t="Include" />
           <e p="MapGenerator.cs" t="Include" />
+          <e p="MeshGenerator.cs" t="Include" />
           <e p="Noise.cs" t="Include" />
           <e p="TextureGenerator.cs" t="Include" />
         </e>

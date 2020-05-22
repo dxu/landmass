@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e035dbbd-3ef3-422a-990d-94e3e4295ede" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project (1)/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project (1)/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project (1)/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project (1)/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project (1)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project (1)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/MapMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/MapMaterial.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MapDisplay.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MapDisplay.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" afterDir="false" />
@@ -22,6 +20,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextureGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Editor/MapGeneratorEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MeshGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Noise.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapDisplay.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -30,9 +29,10 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Editor/MapGeneratorEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Noise.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MapDisplay.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TextureGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MapDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshGenerator.cs" />
       </list>
     </option>
   </component>
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586648688967</updated>
       <workItem from="1586648700260" duration="5305000" />
-      <workItem from="1590181777894" duration="1195000" />
+      <workItem from="1590181777894" duration="3321000" />
     </task>
     <servers />
   </component>
